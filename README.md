@@ -7,13 +7,14 @@ This repo contains all the exercises, examples, and additional notes as I progre
 ## 📂 Repository Structure
 
 ```
-├── chapter-01/               # Getting Started with pytest
-├── chapter-02/               # Writing Simple Tests
-├── chapter-03/               # Fixtures and Setup/Teardown
-├── chapter-04/               # Parametrized Testing
-├── chapter-05/               # Organizing Tests
-├── ...                       # More chapters as I progress
-└── README.md                 # This file
+├── code
+|  ├── ch1/               # Getting Started with pytest
+|  ├── ch2/               # Writing Simple Tests
+|  ├── ch3/               # Fixtures and Setup/Teardown
+|  ├── ch4/               # Parametrized Testing
+|  ├── ch5/               # Organizing Tests
+|  ├── ...                # More chapters as I progress
+└── README.md             # This file
 ```
 
 ## 🛠️ Tools and Setup
@@ -63,4 +64,3 @@ Happy testing! 🚀
 ---
 
 Would you like me to add anything specific? Maybe a section with useful pytest plugins or a resources list? Let me know! ✨
-
