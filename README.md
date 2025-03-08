@@ -44,7 +44,7 @@ pytest
 Or target a specific chapter or test file:
 
 ```sh
-pytest chapter-03/test_example.py
+pytest ch3/test_example.py
 ```
 
 ## 📖 Purpose of the Repository
